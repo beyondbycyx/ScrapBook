@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NS1="http://amb.vis.ne.jp/mozilla/scrapbook-rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Seq RDF:about="urn:scrapbook:item20151215095144">
+    <RDF:li RDF:resource="urn:scrapbook:item20151215095135"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20151215095144"
+                   NS1:id="20151215095144"
+                   NS1:type="folder"
+                   NS1:title="android文档"
+                   NS1:chars=""
+                   NS1:icon=""
+                   NS1:source=""
+                   NS1:comment="" />
+  <RDF:Seq RDF:about="urn:scrapbook:item20151215165702">
+    <RDF:li RDF:resource="urn:scrapbook:item20151215165729"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20151215165702"
+                   NS1:id="20151215165702"
+                   NS1:type="folder"
+                   NS1:title="屏幕适配"
+                   NS1:chars=""
+                   NS1:icon=""
+                   NS1:source=""
+                   NS1:comment="" />
+  <RDF:Description RDF:about="urn:scrapbook:item20151215095135"
+                   NS1:id="20151215095135"
+                   NS1:type=""
+                   NS1:chars="UTF-8"
+                   NS1:source="file:///D:/AndroidSDK/docs/guide/index.html"
+                   NS1:icon="resource://scrapbook/data/20151215095135/favicon_001.ico"
+                   NS1:title="guides目录"
+                   NS1:comment="android 文档注释 __BR__ " />
+  <RDF:Seq RDF:about="urn:scrapbook:root">
+    <RDF:li RDF:resource="urn:scrapbook:item20151215095144"/>
+    <RDF:li RDF:resource="urn:scrapbook:item20151215165702"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:scrapbook:item20151215165729"
+                   NS1:id="20151215165729"
+                   NS1:type=""
+                   NS1:chars="UTF-8"
+                   NS1:source="file:///D:/AndroidSDK/docs/training/basics/supporting-devices/screens.html"
+                   NS1:icon="resource://scrapbook/data/20151215165729/favicon_001.ico"
+                   NS1:title="目录命名_Supporting Different Screens | Android Developers"
+                   NS1:comment="" />
+</RDF:RDF>
